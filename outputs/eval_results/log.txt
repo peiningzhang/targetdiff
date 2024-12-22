@@ -1,0 +1,31 @@
+[2024-12-21 08:04:20,350::evaluate::INFO] Load generated data done! 100 examples in total.
+[2024-12-21 08:29:15,145::evaluate::INFO] Evaluate done! 1000 samples in total.
+[2024-12-21 08:29:15,145::evaluate::INFO] mol_stable:	0.4220
+[2024-12-21 08:29:15,146::evaluate::INFO] atm_stable:	0.9451
+[2024-12-21 08:29:15,146::evaluate::INFO] recon_success:	0.9970
+[2024-12-21 08:29:15,146::evaluate::INFO] eval_success:	0.9300
+[2024-12-21 08:29:15,146::evaluate::INFO] complete:	0.9300
+[2024-12-21 08:29:15,164::evaluate::INFO] JS bond distances of complete mols: 
+[2024-12-21 08:29:15,165::evaluate::INFO] JSD_6-6|4:	0.1596
+[2024-12-21 08:29:15,165::evaluate::INFO] JSD_6-6|1:	0.2887
+[2024-12-21 08:29:15,165::evaluate::INFO] JSD_6-8|1:	0.2790
+[2024-12-21 08:29:15,165::evaluate::INFO] JSD_6-7|1:	0.2312
+[2024-12-21 08:29:15,165::evaluate::INFO] JSD_6-8|2:	0.3361
+[2024-12-21 08:29:15,165::evaluate::INFO] JSD_6-6|2:	0.2078
+[2024-12-21 08:29:15,166::evaluate::INFO] JSD_6-7|4:	0.1978
+[2024-12-21 08:29:15,166::evaluate::INFO] JSD_6-7|2:	0.2220
+[2024-12-21 08:29:15,315::evaluate::INFO] JSD_CC_2A:	0.1869
+[2024-12-21 08:29:15,315::evaluate::INFO] JSD_All_12A:	0.0425
+[2024-12-21 08:29:15,316::evaluate::INFO] Atom type JS: 0.0663
+[2024-12-21 08:29:15,527::evaluate::INFO] Number of reconstructed mols: 997, complete mols: 930, evaluated mols: 930
+[2024-12-21 08:29:15,528::evaluate::INFO] QED:   Mean: 0.493 Median: 0.486
+[2024-12-21 08:29:15,529::evaluate::INFO] SA:    Mean: 0.619 Median: 0.610
+[2024-12-21 08:29:15,530::evaluate::INFO] Vina Score:  Mean: -5.214 Median: -6.098
+[2024-12-21 08:29:15,531::evaluate::INFO] Vina Min  :  Mean: -6.444 Median: -6.740
+[2024-12-21 08:29:15,531::evaluate::INFO] ring size: 3 ratio: 0.000
+[2024-12-21 08:29:15,532::evaluate::INFO] ring size: 4 ratio: 0.045
+[2024-12-21 08:29:15,532::evaluate::INFO] ring size: 5 ratio: 0.511
+[2024-12-21 08:29:15,532::evaluate::INFO] ring size: 6 ratio: 0.759
+[2024-12-21 08:29:15,532::evaluate::INFO] ring size: 7 ratio: 0.245
+[2024-12-21 08:29:15,533::evaluate::INFO] ring size: 8 ratio: 0.059
+[2024-12-21 08:29:15,533::evaluate::INFO] ring size: 9 ratio: 0.032
